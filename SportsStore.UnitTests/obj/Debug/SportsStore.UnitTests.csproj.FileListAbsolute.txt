@@ -1,0 +1,6 @@
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb

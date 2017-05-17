@@ -1,0 +1,5 @@
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
