@@ -29,5 +29,7 @@ namespace SportsStore.WebUI.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<SportsStore.Domain.Entities.Product> Products { get; set; }
     }
 }

@@ -80,3 +80,11 @@ c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\S
 c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
 c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
 c:\users\aliaksandr_malakhau\documents\visual studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Aliaksandr_Malakhau\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.dll
+C:\Users\Aliaksandr_Malakhau\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Aliaksandr_Malakhau\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Aliaksandr_Malakhau\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Aliaksandr_Malakhau\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Aliaksandr_Malakhau\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Castle.Core.xml
+C:\Users\Aliaksandr_Malakhau\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Aliaksandr_Malakhau\Documents\Visual Studio 2015\Projects\SportsStore\SportsStore\SportsStore.WebUI\bin\Ninject.xml
