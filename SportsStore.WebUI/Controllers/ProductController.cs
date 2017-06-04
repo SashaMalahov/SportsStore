@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using PagedList;
 using SportsStore.Domain.Abstract;
 
 namespace SportsStore.WebUI.Controllers
@@ -10,17 +11,17 @@ namespace SportsStore.WebUI.Controllers
     public class ProductController : Controller
     {
         private IProductRepository _repository;
+        public int PageSize = 4;
 
         public ProductController(IProductRepository repository)
         {
             _repository = repository;
         }
 
-        public ViewResult List()
+        public ActionResult Index(int? page)
         {
-            var products = _repository.Products;
-
-            return View(products);
+            int pageNumber = page ?? 1;
+            return View(_repository.Products.OrderBy(p=>p.ProductID).ToPagedList(pageNumber, PageSize));
         }
     }
 }

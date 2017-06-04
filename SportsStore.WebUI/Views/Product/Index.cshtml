@@ -1,0 +1,32 @@
+﻿@model PagedList.IPagedList<SportsStore.Domain.Entities.Product>
+@using PagedList
+@using PagedList.Mvc;
+<link href="/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+
+@{
+    ViewBag.Title = "Products";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    @foreach (var p in Model)
+    {
+        <div class="item">
+            <h3>@p.Name</h3>
+            @p.Description
+            <h4>@p.Price.ToString("c")</h4>
+        </div>
+    }
+
+    Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+
+</body>
+</html>
